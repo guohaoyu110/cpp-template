@@ -85,5 +85,6 @@
   },
   "lldb.displayFormat": "auto",
   "lldb.dereferencePointers": true,
-  "lldb.showDisassembly": "always"
+  "lldb.showDisassembly": "always",
+  "python.pythonPath": "/Users/haoyuguo/opt/anaconda3/bin/python"
 }
